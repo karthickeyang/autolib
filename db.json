@@ -1,0 +1,31 @@
+{
+"users": {
+  "TransUserInfo": {
+    "user_id": 1,
+    "user_name": 1,
+    "expiry_date": "01/01/2020",
+    "department_id": 1,
+    "designation_id": 1,
+    "institution_id": 1,
+    "lock_status":"NO",
+    "cycle_id": null,
+    "check_in_time": null,
+    "department_name": "department1",
+    "designation_name": "Student",
+    "institution_name": "asdad"
+  },
+  "StatusDesc": "Successfullyprocesstherequest",
+  "TransCycleInfo": {
+    "cycle_id": 1,
+    "cycle_name": "Cycle1",
+    "cycle_number": 1,
+    "cycle_status": "HIRED",
+    "remarks":null,
+    "check_in_time": 07/03/201907: 20: 45PM,
+    "check_in_station_id":1,
+    "check_in_master_id":1,
+    "transaction_id":2
+  },
+  "StatusCode": 00
+}
+}

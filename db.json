@@ -21,11 +21,11 @@
     "cycle_number": 1,
     "cycle_status": "HIRED",
     "remarks":null,
-    "check_in_time": 07/03/201907: 20: 45PM,
+    "check_in_time": "07/03/201907: 20: 45PM",
     "check_in_station_id":1,
     "check_in_master_id":1,
     "transaction_id":2
   },
-  "StatusCode": 00
+  "StatusCode": "00"
 }
 }
